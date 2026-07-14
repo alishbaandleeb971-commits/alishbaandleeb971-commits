@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alishba Andleeb
-**AI Automation Engineer | 2+ Years Experience | Backend Systems | Workflow & Data Pipelines**
+**AI Automation Engineer | 3+ Years Experience | Backend Systems | Workflow & Data Pipelines**
 
 I build **production-grade automation and data systems** that connect APIs, process events in real time, generate business intelligence, and trigger intelligent alerts. My strength is combining **AI, backend engineering, and workflow orchestration** to reduce manual effort and operational risk.
 
@@ -40,7 +40,7 @@ My focus is on **AI-driven automation systems**:
 ---
 
 ## 📊 At a Glance
-- **2+ years** in automation & backend engineering
+- **3+ years** in automation & backend engineering
 - **Multiple production automation systems** (APIs, pipelines, dashboards)
 - **Core skills**: Python, FastAPI, Flask, PostgreSQL, n8n, Applied ML
 
